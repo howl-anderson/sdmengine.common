@@ -1,0 +1,14 @@
+Package: sdmengine.common
+Type: Package
+Title: common function for SDM-serial software
+Version: 0.1
+Date: 2015-01-13
+Author: Xiaoquan Kong
+Depends:
+    yaml,
+    stringr,
+    parallel,
+    DBI
+Maintainer: Xiaoquan Kong <u1mail2me@gmail.com>
+Description: Common function (read configure, connection database, et al.) for SDM-serial software
+License: AGPL
